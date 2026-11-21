@@ -91,7 +91,7 @@ Special attention is given to recall because identifying potentially higher-risk
 
 ## 📈 Results
 
-Model performance and comparisons will be updated after training and evaluation.
+All models were evaluated on the same stratified test set, and their performance is compared below.
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |---|---|---|---|---|
